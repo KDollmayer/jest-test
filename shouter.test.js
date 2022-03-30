@@ -1,0 +1,2 @@
+const { shout } = require("./shouter")
+
